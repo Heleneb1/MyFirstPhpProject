@@ -3,7 +3,8 @@
     "description": "A quest to let you discover the power of the mighty twig template engine !",
     "type": "quest",
     "require": {
-        "twig/twig": "^3.3"
+        "twig/twig": "^3.3",
+        "twig/extra-bundle": "^3.10"
     },
     "authors": [
         {
